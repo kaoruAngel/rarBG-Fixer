@@ -1,16 +1,16 @@
 ﻿// ==UserScript==
 // @name		rarbg fixer
-// @namespace	rarbg fixer
-// @homepage    https://openuserjs.org/scripts/Azev/rarbg_fixer
-// @description	-
-// @updateURL	https://openuserjs.org/install/Azev/rarbg_fixer.user.js
-// @downloadURL	https://openuserjs.org/install/Azev/rarbg_fixer.user.js
+// @namespace		rarbg fixer
+// @homepage    	https://github.com/azev/rarBG-Fixer
+// @description		-
+// @updateURL		https://github.com/azev/rarBG-Fixer/raw/master/rarbg_fixer.user.js
+// @downloadURL		https://github.com/azev/rarBG-Fixer/raw/master/rarbg_fixer.user.js
 // @author		Azev
 // @version		4.0
 // @grant		none
 // @icon		http://www.rarbg.to/favicon.ico
-// @include     http*://*rarbg.com/*
-// @include     http*://*rarbg.to/*
+// @includ		http*://*rarbg.com/*
+// @includ		http*://*rarbg.to/*
 // ==/UserScript==
 
 // http://wiki.greasespot.net/Metadata_Block
