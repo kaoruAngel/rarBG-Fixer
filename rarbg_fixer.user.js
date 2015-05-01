@@ -57,7 +57,7 @@ for (i=0; i < elms.length; i++) {
 			anchor.style.display = 'block';
 			anchor.style.padding = '10px';
 			anchor.style.color = '#3c0';
-			anchor.innerHTML = 'DOWNLOAD FROM TORRAGE.NET';
+			anchor.innerHTML = 'DOWNLOAD FROM TORCACHE.NET';
 			elms[i].parentNode.appendChild(anchor);
 			//elms[i].href='#';
 		}
