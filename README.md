@@ -10,4 +10,5 @@ This script uncraps :) rarbg.to.
 - Fade opacity for torrents added more than 3 months ago.
 - Apply some layout improvements.
 
+Installation Link:
 https://github.com/azev/rarBG-Fixer/raw/master/rarbg_fixer.user.js
