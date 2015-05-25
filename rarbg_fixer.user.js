@@ -9,8 +9,8 @@
 // @version		4.0
 // @grant		none
 // @icon		http://www.rarbg.to/favicon.ico
-// @includ		http*://*rarbg.com/*
-// @includ		http*://*rarbg.to/*
+// @include		http*://*rarbg.com/*
+// @include		http*://*rarbg.to/*
 // ==/UserScript==
 
 // http://wiki.greasespot.net/Metadata_Block
